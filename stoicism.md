@@ -21,4 +21,4 @@ Key Thought Leaders
 - [Epictetus](https://dailystoic.com/epictetus/)
 - [Marcus Aurelius](https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255/?tag=dailystoic07-20)
 
-In these uncertain COVID-19 times, it seems like an oportune time to start thinking more about how you mentally deal with uncertainty and high-stress times. 
+In these uncertain COVID-19 times, it seems like an oportune time to start using stoicism to be better eqipped to mentally deal with uncertainty and high-stress times. 
