@@ -4,17 +4,16 @@ I started the morning off by listening to the Tim Ferriss podcast; today's episo
 
 In listing them out, we are able to move past that phase of mental thinking. The final piece of defining your fears is listing out all the things that will not happen if your fears are holding you back from something. For example, if you are afriad to travel somewhere new -- you could be fearful you won't have a good time, or you'll be missing something at work. But, if you let fears hold you back and don't go -- you could risk missing out on the trip of a lifetime. 
 
-Page 1 - 3 columns
-DEFINE - List 10 fears
-PREVENT - Why you fear it/what could go wrong
-REPAIR - How you could mitigate the prevent column
+- DEFINE - List 10 fears
+- PREVENT - Why you fear it/what could go wrong
+- REPAIR - How you could mitigate the prevent column
 
 In this talk, Tim talks about being inspired by stoicism: the endurance of pain or hardship without the display of feelings and without complaint. 
 
 This lead me down a rabbit hole about stoicism. Here's some resources: 
 
 - [Beginners Guide to Stoicism](https://www.amazon.com/Beginners-Guide-Stoicism-Resilience-Positivity/dp/1641527218)
-- [The Obstacle Is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph-ebook/dp/B00G3L1B8K/ref=msx_wsirn_v1_1/131-8478015-3671223
+- [The Obstacle Is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph-ebook/dp/B00G3L1B8K/ref=msx_wsirn_v1_1/131-8478015-3671223)
 - [Daily Stoic - Newsletter](https://dailystoic.com/)
 
 Key Thought Leaders
